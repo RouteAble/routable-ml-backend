@@ -1,0 +1,17 @@
+ipykernel
+ipywidgets
+matplotlib
+pre-commit
+kmeans-pytorch
+tqdm
+keras
+numpy
+Pillow
+tensorflow
+pydantic
+
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
+torchvision
+
+fastapi
