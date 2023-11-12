@@ -3,7 +3,6 @@
 
   <p align="center">
 RouteAble is a map-based application that uses crowd-sourced data to help disabled people determine accessible areas. Our technology uses ML for image similarities and tag generation, blockchain to incentivize users, and React Native for hosting on Android and iOS devices. We hope to promote a more inclusive space by helping users upload, share, and idenitfy areas with stairs, ramps, asphalt roads, concrete roads, and guard rails. <br /> <br /> This repo is a proxy to access python ML functions via our main nest js backend.
-
     <br/>
     <a href="https://github.com/RouteAble/routeable-mobile/README.md"><strong>Explore the docs »</strong></a>
     <br />
