@@ -207,9 +207,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Divyansh Shivashok - dshivashok@umass.edu
-Shishir Pai - skpai@umass.edu
-Ayush Ravi Chandran - ayushravicha@umass.edu
+Divyansh Shivashok - dshivashok@umass.edu <br/>
+Shishir Pai - skpai@umass.edu<br/>
+Ayush Ravi Chandran - ayushravicha@umass.edu<br/>
 Zara Nip - znip@uchicago.edu
 
 Project Link: [https://github.com/RouteAble](https://github.com/RouteAble)
