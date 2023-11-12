@@ -53,11 +53,9 @@ We were inspired by fellow UMass Amherst students who identified the lack of acc
 
 ### Built With
 
-* [React Native](https://reactnative.dev/)
-* [Nest.js](https://nestjs.com/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [PyTorch](https://pytorch.org/l)
 * [FastAPI](https://fastapi.tiangolo.com/)
-* [Google Map API](https://developers.google.com/maps)
-* [.Tech Domain](https://get.tech/mlh)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
